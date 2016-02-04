@@ -1,0 +1,4 @@
+This is where we will store our assets and code for our fire game!
+For now, write your full names down below to test:
+
+Eiko Takeoka - Programming
